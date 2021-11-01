@@ -1,0 +1,76 @@
+body {
+    background-color: #f1f1f1;
+    color:#0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    
+}
+.info p {
+    color: gray;
+    margin: 0;
+    font-weight:bold ;
+}
+.info {
+    display: flex;
+}
+.info-text {
+    margin-left: 40px;
+    
+}
+
+.social {
+    background-color: 
+    padding: 15px;
+
+}
+.container {
+    max-width: 75%;
+    margin: auto;
+    padding-top: 30px;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-yellow {
+    background-color:#fff9dc ;
+}
+.bg-green {
+    background-color: #e5ffe7 ;
+}
+.bg-red {
+    background-color: #ffe5e5;
+}
+.contact h2{
+    text-align: center;
+}
+.form-group label {
+    display: block;
+}
+.btn {
+    background-color: darkgreen;
+    color: white;
+    padding: 15px 20px;
+    border:none;
+    
+}
